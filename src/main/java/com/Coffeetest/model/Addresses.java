@@ -1,6 +1,7 @@
 package com.Coffeetest.model;
 
 public class Addresses {
+
     private String cep;
     private String logradouro;
     private String complemento;
